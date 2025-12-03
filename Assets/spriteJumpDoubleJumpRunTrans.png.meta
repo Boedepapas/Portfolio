@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: a97a2d96858594945935f4b092a59645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4842023411893985178
+    second: spriteJumpDoubleJumpRunTrans_0
+  - first:
+      213: -1771579893505031719
+    second: spriteJumpDoubleJumpRunTrans_1
+  - first:
+      213: 5604971267245923469
+    second: spriteJumpDoubleJumpRunTrans_2
+  - first:
+      213: 6864171107643594829
+    second: spriteJumpDoubleJumpRunTrans_3
+  - first:
+      213: -7595531065369681632
+    second: spriteJumpDoubleJumpRunTrans_4
+  - first:
+      213: -8340814275943965317
+    second: spriteJumpDoubleJumpRunTrans_5
+  - first:
+      213: -8933481946784358590
+    second: spriteJumpDoubleJumpRunTrans_6
+  - first:
+      213: 5611468194873653098
+    second: spriteJumpDoubleJumpRunTrans_7
+  - first:
+      213: -6583353541047704843
+    second: spriteJumpDoubleJumpRunTrans_8
+  - first:
+      213: 4929822037775701949
+    second: spriteJumpDoubleJumpRunTrans_9
+  - first:
+      213: 2151881647412009895
+    second: spriteJumpDoubleJumpRunTrans_10
+  - first:
+      213: -2545997117227301895
+    second: spriteJumpDoubleJumpRunTrans_11
+  - first:
+      213: 4761509450357463064
+    second: spriteJumpDoubleJumpRunTrans_12
+  - first:
+      213: 2534464559476081823
+    second: spriteJumpDoubleJumpRunTrans_13
+  - first:
+      213: 3168963508545465101
+    second: spriteJumpDoubleJumpRunTrans_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 344
+        width: 31
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fd01493a2523340800000000000000
+      internalID: 4842023411893985178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 344
+        width: 49
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1886c19751a67e0800000000000000
+      internalID: -1771579893505031719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 344
+        width: 72
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cd670dbabd8cd40800000000000000
+      internalID: 5604971267245923469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 344
+        width: 44
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d489894214f624f50800000000000000
+      internalID: 6864171107643594829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 344
+        width: 35
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02122382db0479690800000000000000
+      internalID: -7595531065369681632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 174
+        width: 49
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d5ad88b997f3c80800000000000000
+      internalID: -8340814275943965317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 174
+        width: 31
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9d824085e50480800000000000000
+      internalID: -8933481946784358590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 174
+        width: 70
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b8d7a790ffdd40800000000000000
+      internalID: 5611468194873653098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 174
+        width: 64
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2aa03a5da33a4a0800000000000000
+      internalID: -6583353541047704843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 174
+        width: 43
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75387260f3a6440800000000000000
+      internalID: 4929822037775701949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 11
+        width: 74
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abdca805f40ddd10800000000000000
+      internalID: 2151881647412009895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 13
+        width: 48
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f38f747c1dcaacd0800000000000000
+      internalID: -2545997117227301895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4
+        width: 57
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d8371e97441240800000000000000
+      internalID: 4761509450357463064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4
+        width: 49
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f948363b61a3c2320800000000000000
+      internalID: 2534464559476081823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteJumpDoubleJumpRunTrans_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 4
+        width: 33
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b2709658b6afb20800000000000000
+      internalID: 3168963508545465101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 348f62cdb53e7c74b8c8d4e0fa8a50e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spriteJumpDoubleJumpRunTrans_0: 4842023411893985178
+      spriteJumpDoubleJumpRunTrans_1: -1771579893505031719
+      spriteJumpDoubleJumpRunTrans_10: 2151881647412009895
+      spriteJumpDoubleJumpRunTrans_11: -2545997117227301895
+      spriteJumpDoubleJumpRunTrans_12: 4761509450357463064
+      spriteJumpDoubleJumpRunTrans_13: 2534464559476081823
+      spriteJumpDoubleJumpRunTrans_14: 3168963508545465101
+      spriteJumpDoubleJumpRunTrans_2: 5604971267245923469
+      spriteJumpDoubleJumpRunTrans_3: 6864171107643594829
+      spriteJumpDoubleJumpRunTrans_4: -7595531065369681632
+      spriteJumpDoubleJumpRunTrans_5: -8340814275943965317
+      spriteJumpDoubleJumpRunTrans_6: -8933481946784358590
+      spriteJumpDoubleJumpRunTrans_7: 5611468194873653098
+      spriteJumpDoubleJumpRunTrans_8: -6583353541047704843
+      spriteJumpDoubleJumpRunTrans_9: 4929822037775701949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
